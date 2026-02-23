@@ -73,7 +73,7 @@ QUESTAO 2
     
     const texto = "JavaScript é uma linguagem de programação. JavaScript é versátil e JavaScript é poderoso.";
     
-    console.log(analisarTexto(texto));2.js…]()
+    console.log(analisarTexto(texto));
 
 QUESTAO 3
 [Questao3.js](https://github.com/user-attachments/files/25501113/Questao3.js)
@@ -154,7 +154,7 @@ QUESTAO 4
     }
     
     
-    console.log(sanitizarDados(dadosSensiveis));4.js…]()
+    console.log(sanitizarDados(dadosSensiveis));
 
 QUESTAO 5
 [Questao5.js](https://github.com/user-attachments/files/25501164/Questao5.js)
