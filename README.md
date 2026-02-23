@@ -1,6 +1,6 @@
 # Atividade2Parte3
 
-OBS: Fiz as questões com auxilio da IA (n tava conseguindo raciocinar)
+OBS: Fiz as questões com auxilio da IA (n estava conseguindo fazer sozinho)
 
 QUESTAO 1
 [Questao1.js](https://github.com/user-attachments/files/25501003/Questao1.js)
