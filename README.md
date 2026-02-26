@@ -126,7 +126,7 @@ QUESTAO 3 - [Questao3.js](https://github.com/user-attachments/files/25562990/Que
 
 
 
-QUESTAO 4 - [Questao4.js](https://github.com/user-attachments/files/25562992/Questao4.js
+QUESTAO 4 - [Questao4.js](https://github.com/user-attachments/files/25562992/Questao4.js)
 
     function sanitizarDados(dados) {
 
